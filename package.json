@@ -1,0 +1,29 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "A practice space of Faiz for Namaste_React series.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "Build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IasFaiz/namaste_react.git"
+  },
+  "author": "Faiz Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IasFaiz/namaste_react/issues"
+  },
+  "homepage": "https://github.com/IasFaiz/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
